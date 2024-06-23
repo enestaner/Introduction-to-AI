@@ -2,6 +2,6 @@
 
 ## *Mini Project 1:* Basic Data Analyze of MNIST digit dataset 
 
-## *Miniprojekt 2:* Klassifikation
+## *Mini Project 2:* Classification with Titanic dataset
 
-## *Miniprojekt 3:* Logistische Regression
+## *Mini Project 3:* Logistic Regression with Iris dataset
